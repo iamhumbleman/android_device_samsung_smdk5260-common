@@ -1,0 +1,1 @@
+# android_device_samsung_smdk5260-common
